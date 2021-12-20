@@ -273,8 +273,8 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 #sceneList .scenes {
   width: 100%;
-  background-color: rgb(237, 213, 92);
-  background-color: rgba(237, 213, 92,0.8);
+  background-color: rgb(245, 187, 51);
+  background-color: rgba(245, 187, 51,0.8);
 }
 
 .mobile #sceneList {
@@ -320,13 +320,13 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 .no-touch #sceneList .scene:hover {
-  background-color: rgb(237, 213, 92);
-  background-color: rgba(237, 213, 92,0.8);
+  background-color: rgb(245, 187, 51);
+  background-color: rgba(245, 187, 51,0.8);
 }
 
 #sceneList .scene.current {
-  background-color: rgb(237, 213, 92);
-  background-color: rgba(237, 213, 92,0.8);
+  background-color: rgb(245, 187, 51);
+  background-color: rgba(245, 187, 51,0.8);
 }
 
 /* Hide scene list when only a single scene exists */
